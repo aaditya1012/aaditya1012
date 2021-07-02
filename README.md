@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aaditya1012
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning programming language for software development.
+- 👋 Hi, I’m Aaditya Jaiswal
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - aadityavns123@gmail.com
 
