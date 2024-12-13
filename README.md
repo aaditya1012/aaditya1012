@@ -1,7 +1,3 @@
-Here’s a professional and engaging README for your GitHub profile:
-
----
-
 # Hi there! 👋 I'm Aaditya Jaiswal  
 
 Welcome to my GitHub profile! I'm a backend developer and a proud graduate of IIT (BHU), Varanasi, with over two years of experience in building scalable, high-performance applications. My expertise lies in **Java EE technologies**, **Spring Boot**, and **Hibernate**, along with a knack for designing efficient, robust systems.
